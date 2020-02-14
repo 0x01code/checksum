@@ -8,3 +8,14 @@ C:\Users\TheHacker\Documents\Visual Studio 2012\Projects\hashfile\hashfile\obj\D
 C:\Users\TheHacker\Documents\Visual Studio 2012\Projects\hashfile\hashfile\obj\Debug\hashfile.exe
 C:\Users\TheHacker\Documents\Visual Studio 2012\Projects\hashfile\hashfile\obj\Debug\hashfile.xml
 C:\Users\TheHacker\Documents\Visual Studio 2012\Projects\hashfile\hashfile\obj\Debug\hashfile.pdb
+C:\Users\0x01code\Source\Repos\checksum\hashfile\bin\Debug\hashfile.exe.config
+C:\Users\0x01code\Source\Repos\checksum\hashfile\bin\Debug\hashfile.exe
+C:\Users\0x01code\Source\Repos\checksum\hashfile\bin\Debug\hashfile.pdb
+C:\Users\0x01code\Source\Repos\checksum\hashfile\bin\Debug\hashfile.xml
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.vbprojAssemblyReference.cache
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.Form1.resources
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.Resources.resources
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.vbproj.GenerateResource.cache
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.exe
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.xml
+C:\Users\0x01code\Source\Repos\checksum\hashfile\obj\Debug\hashfile.pdb
